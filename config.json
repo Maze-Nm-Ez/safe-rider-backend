@@ -1,0 +1,9 @@
+{
+    "window_length": 60,
+    "segment_length": 20,
+    "overlap": 0.5,
+    "sampling_rate": 10,
+    "model_path": "collision_detection_model.h5",
+    "scaler_path": "min_max_scaler.pkl",
+    "anomaly_threshold": 0.03515662693407844
+}
